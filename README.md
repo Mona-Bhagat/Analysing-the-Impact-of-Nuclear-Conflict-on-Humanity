@@ -1,5 +1,6 @@
 # Analysing-the-Impact-of-Nuclear-Conflict-on-Humanity
 
+![Capture_Tableau Dashboard](https://github.com/user-attachments/assets/655b00ee-8ec9-4e85-99b8-ff4102c91020)
 
 
 
